@@ -36,7 +36,7 @@ This repo contains lecture slides and links to the Mind Expander exercises for t
   new R script to process the data. Try to complete all data processing, analysis, and visualization in R (and bash). Be sure to use commenting to describe what your code is doing and employ best practices in making your code readable by others.
   
   If you were not able to bring your own data set, we will provide you with the option of analyzing any one of the data sets below that are
-  provided with the book, Computing Skills for Biologists.  The data can be found in the CSB repository that you cloned and have been working in. Notice that each data set is accompanied by a description file. We encourage you to look at the publication in which the data was reported. Please see the file, R_ProjectData.pdf for descriptions and ideas on what to do with the data.
+  provided with the book, Computing Skills for Biologists.  The data can be found in the CSB repository that you cloned and have been working in. Notice that each data set is accompanied by a description file. We encourage you to look at the publication in which the data was reported. You can also refer to the book I have available in the class room for descriptions and ideas on what to do with the data on pages 295-298 & 335-336.
   
   **Self-Incompatibility in Plants** - CSB/r/data/Goldberg2010*
   
