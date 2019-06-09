@@ -29,7 +29,7 @@ This repo contains lecture slides and links to the Mind Expander exercises for t
   <a href="https://forms.gle/zSof9MYTNwZRmCab9" target="_blank">ggplot Mind Expander 2
 
 
-## Data Sets for Independent/Group Projects (Monday Afternoon)
+## Data Sets for Independent/Group Projects (Monday Afternoon) - Dr. Chris Bird
 
   We would like to provide you with the opportunity to use R to automate the manipulation, analysis, and visualization of your own data 
   set.  You may work alone or in groups. Start by making a directory for your analysis, then copy your data to that directory and make a 
@@ -45,6 +45,12 @@ This repo contains lecture slides and links to the Mind Expander exercises for t
   **Leaf Area Using Image Processing** - CSB/r/data/leafarea/
   
   **Titles and Citations** - CSB/r/data/Letchford2015*
+  
+  **Life History in Songbirds** - CSB/data_wrangling/data/Martin2015*
+  
+  **Drosophilidae Wings** - CSB/data_wrangling/data/Bolstad2015*
+  
+  **Extinction Risk Meta-Analysis** - CSB/data_wrangling/data/Urban2015
 
 
 ## GitHub Repository (Tuesday Morning) - Drs. Eric Garcia and Chris Bird
@@ -54,7 +60,7 @@ We would like each group to create a GitHub repository with their project.  The 
 
 ## Make Presentation of Results from Independent/Group Projects (Tuesday Morning)
 
- We will conclude the R portion of the workshop with a mini symposium after lunch on Tuesday.  Each group will have **5 minutes or less** to present so that we can finish by the mid afternoon break. You can spend Tuesday morning completing your analysis and making the presentation.  Each presentation should include a prominent link the GitHub repository and at least one data visualization or statistical table made with R.
+ We will conclude the R portion of the workshop with a mini symposium after lunch on Tuesday.  Each group will have **5 minutes or less** to present so that we can finish by the mid afternoon break. We recommend limiting the number of slides (<5). You can spend Tuesday morning completing your analysis and making the presentation.  Each presentation should include a prominent link the GitHub repository and at least one data visualization or statistical table made with R.
  
  
  ## Presentations (Tuesday Early Afternoon)
