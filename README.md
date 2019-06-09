@@ -2,6 +2,7 @@
 
 This repo contains lecture slides and links to the Mind Expander exercises for the R workshop.  These exercises are based upon the book, Computing Skills for Biologists
 
+
 ## Introduction to R
 
   <a href="https://forms.gle/GeuxmRyKQaeaRK7M7" target="_blank">R Mind Expander 1</a>
@@ -18,11 +19,13 @@ This repo contains lecture slides and links to the Mind Expander exercises for t
 
   <a href="https://forms.gle/tLHy5Y7Md6WjTRqA6" target="_blank">R Mind Expander 7</a>
 
+
 ## Visualizations in R with ggplot2
 
   <a href="https://forms.gle/TSQLJjcXpwgShZBU8" target="_blank">ggplot Mind Expander 1
   
   <a href="https://forms.gle/zSof9MYTNwZRmCab9" target="_blank">ggplot Mind Expander 2
+
 
 ## Data Sets for Independent/Group Projects
 
@@ -31,7 +34,13 @@ This repo contains lecture slides and links to the Mind Expander exercises for t
   new R script to process the data. Try to complete all data processing, analysis, and visualization in R (and bash).
   
   If you were not able to bring your own data set, we will provide you with the option of analyzing any one of the data sets below that are
-  provided with the book, Computing Skills for Biologists.  Please see the file, R_ProjectData.pdf for descriptions and ideas on what to  
-  do with the data.
+  provided with the book, Computing Skills for Biologists.  The data can be found in the CSB repository that you cloned and have been working in. Notice that each data set is accompanied by a description file. We encourage you to look at the publication in which the data was reported. Please see the file, R_ProjectData.pdf for descriptions and ideas on what to do with the data.
   
-  **Self-Incompatibility in Plants** - 
+  **Self-Incompatibility in Plants** - CSB/r/data/Goldberg2010*
+  
+  **Body Mass of Mammals** - CSB/r/data/Smith2003*
+  
+  **Leaf Area Using Image Processing** - CSB/r/data/leafarea/
+  
+  **Titles and Citations** - CSB/r/data/Letchford2015*
+  
